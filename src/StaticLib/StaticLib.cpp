@@ -35,7 +35,6 @@ bool bubble_sort(item* begin, const item* end)
         }
 
     }
-
 	return true;
 
 }
